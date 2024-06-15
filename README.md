@@ -11,7 +11,9 @@ This is a sub part of my airdrop game to handle all the score related things via
 ⚡️ Fast\
 ⚡️ Valid python-flask\
 ⚡️ Easy to Understand\
-⚡️ Easy to modify
+⚡️ Easy to modify\
+⚡️ Reliable\
+⚡️ Read-Write data on db as you wish!
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>main.py</b> according to your requirement.
