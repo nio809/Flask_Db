@@ -1,0 +1,5 @@
+Flask==2.1.2
+Werkzeug==2.0.3
+gunicorn==20.1.0  # If you're using gunicorn
+mysql-connector-python==8.0.28
+flask-cors==3.0.10  # Adding flask-cors for CORS support
